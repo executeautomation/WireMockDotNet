@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34818.151
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WireMockNetServer", "WireMockNetServer\WireMockNetServer.csproj", "{7C8FC984-167B-4685-B758-FE779BCA2E12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8FC984-167B-4685-B758-FE779BCA2E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8FC984-167B-4685-B758-FE779BCA2E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8FC984-167B-4685-B758-FE779BCA2E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8FC984-167B-4685-B758-FE779BCA2E12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E284B7E3-A167-406B-82E1-4692052595A4}
+	EndGlobalSection
+EndGlobal
